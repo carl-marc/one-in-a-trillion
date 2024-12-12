@@ -1,7 +1,7 @@
 # Site settings
 title: One in a Trillion
 url: https://carl-marc.github.io
-baseurl: "/one-in-a-trillion" # Leave empty if not using a subdirectory
+baseurl: "" # Leave empty if not using a subdirectory
 
 # Author settings
 author:
