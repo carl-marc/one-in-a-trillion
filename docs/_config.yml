@@ -6,7 +6,7 @@ baseurl: "" # Leave empty if not using a subdirectory
 
 # Author settings
 author:
-  name: carlmarc
+  name: carl-marc
 
 # Theme settings
 theme: minimal
