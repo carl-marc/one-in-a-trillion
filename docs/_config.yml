@@ -1,6 +1,5 @@
 # Site settings
 title: One in a Trillion
-description: Release notes & roadmap for the game.
 url: https://carl-marc.github.io
 baseurl: "/one-in-a-trillion" # Leave empty if not using a subdirectory
 
