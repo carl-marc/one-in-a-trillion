@@ -14,13 +14,3 @@ theme: jekyll-theme-minimal
 # Build settings
 markdown: kramdown
 permalink: pretty
-
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-# Exclude files from the build
-exclude:
-  - README.md
-  - LICENSE
