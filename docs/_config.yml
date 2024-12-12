@@ -1,2 +1,26 @@
-theme: jekyll-theme-minimal
-markdown: GFM
+# Site settings
+title: One in a Trillion
+description: Release notes and roadmap for the game.
+url: https://carl-marc.github.io/one-in-a-trillion
+baseurl: "" # Leave empty if not using a subdirectory
+
+# Author settings
+author:
+  name: carlmarc
+
+# Theme settings
+theme: minimal
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude files from the build
+exclude:
+  - README.md
+  - LICENSE
