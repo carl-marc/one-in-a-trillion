@@ -10,6 +10,8 @@ author:
 
 # Theme settings
 theme: jekyll-theme-cayman
+github:
+  is_project_page: false
 
 # Build settings
 markdown: kramdown
