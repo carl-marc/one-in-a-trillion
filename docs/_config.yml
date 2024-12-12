@@ -9,7 +9,7 @@ author:
   name: carl-marc
 
 # Theme settings
-theme: minimal
+theme: jekyll-theme-minimal
 
 # Build settings
 markdown: kramdown
