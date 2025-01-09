@@ -4,6 +4,9 @@ permalink: /release-notes
 ---
 
 # Release Notes
+## v15.4.2
+- [Release Notes]({{ '/release-notes/v15-4-2' | relative_url }})
+
 ## v15.4.1
 - [Release Notes]({{ '/release-notes/v15-4-1' | relative_url }})
 
