@@ -5,7 +5,7 @@ permalink: /support
 
 # Support
 For any reason, including troubleshooting, feedback or reporting issues plrease email:
-support@hamlab.dev
+**support@hamlab.dev**
 
 - Troubleshooting
 - Questions
