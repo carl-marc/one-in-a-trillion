@@ -7,13 +7,6 @@ permalink: /roadmap
 
 # Roadmap
 
-## 🔨 Mini game sauce progression
-- The **base** luck sauce on mini games will no longer be randomly generated. It will be a value that you permanently increase by finding rare eggs in the mini game.
-- The **luck sauce** added per 100 blue gems will no longer be a constant value. It will increase as you progress (details not finalised). 
-
-**ETA:** Feb/Mar 2025
-
-
 ## **[NEW]** 🔨 Multiplayer
 - Daily Leagues: Just for fun & rewards
   - Unrated
@@ -36,6 +29,13 @@ permalink: /roadmap
 - Play a league & 1v1 at the same time
 
 **ETA:** Feb 2025
+
+
+## 🔨 Mini game sauce progression
+- The **base** luck sauce on mini games will no longer be randomly generated. It will be a value that you permanently increase by finding rare eggs in the mini game.
+- The **luck sauce** added per 100 blue gems will no longer be a constant value. It will increase as you progress (details not finalised). 
+
+**ETA:** Feb/Mar 2025
 
 
 ## New Incubators
