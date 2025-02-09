@@ -5,14 +5,14 @@ permalink: /roadmap
 
 # Roadmap
 
-## :hammer: Mini game sauce progression
-- The **base** luck sauce on mini games will no longer be randomly generated. It will be a value that you permanently increase by finding rare eggs in the mini game
+## 🔨 Mini game sauce progression
+- The **base** luck sauce on mini games will no longer be randomly generated. It will be a value that you permanently increase by finding rare eggs in the mini game.
 - The **luck sauce** added per 100 blue gems will no longer be a constant value. It will increase as you progress (details not finalised). 
 
 **ETA:** Feb/Mar 2025
 
 
-## **[NEW]** :hammer: Multiplayer
+## **[NEW]** 🔨 Multiplayer
 - Daily Leagues: Just for fun & rewards
   - Unrated
   - 24 hour duration
