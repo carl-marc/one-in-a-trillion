@@ -38,7 +38,7 @@ permalink: /roadmap
 **ETA:** Feb/Mar 2025
 
 
-## New Incubators
+## More Incubators
 - Time incubator
 
 **ETA:** Winter 2025
@@ -47,7 +47,7 @@ permalink: /roadmap
 ## Daily & progress challenges
 Rewards for completing daily and progression goals.
 
-**ETA:** Winter 2025
+**ETA:** Spring 2025
 
 
 ## Trading
