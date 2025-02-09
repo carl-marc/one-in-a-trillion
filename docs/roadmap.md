@@ -1,6 +1,8 @@
 ---
 title: One in a Trillion
 permalink: /roadmap
+og_title: "One in a Trillion - Roadmap"
+og_description: "Check out what the dev is working on!"
 ---
 
 **Last updated:** {{ "2025-02-09" | date: "%d %b %Y" }}
