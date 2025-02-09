@@ -3,6 +3,8 @@ title: One in a Trillion
 permalink: /roadmap
 ---
 
+**Last updated:** {{ "2025-02-09" | date: "%d %b %Y" }}
+
 # Roadmap
 
 ## 🔨 Mini game sauce progression
