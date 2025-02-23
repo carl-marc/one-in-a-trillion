@@ -12,7 +12,7 @@ og_description: "Check out what the dev is working on!"
 The order of the roadmap, is the order that features are expected to be added to the game.
 
 
-## **[NEW]** 🔨 Multiplayer
+## 🔨 Multiplayer
 - Daily Leagues: Just for fun & rewards
   - Unrated
   - 24 hour duration
