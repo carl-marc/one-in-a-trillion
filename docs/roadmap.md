@@ -37,5 +37,5 @@ The order of the roadmap, is the order that features are expected to be added to
 
 
 ## 🔨 Mini game sauce progression
-- The **base** luck sauce on mini games will no longer be randomly generated. It will be a value that you permanently increase by finding rare eggs in the mini game.
-- The **luck sauce** added per 100 blue gems will no longer be a constant value. It will increase as you progress (details not finalised). 
+- The **base** luck sauce on mini games will no longer be randomly generated. It will be a value that you permanently increase.
+- The **luck sauce** added per 100 blue gems will no longer be a constant value. It will increase as you progress.
