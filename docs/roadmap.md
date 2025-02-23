@@ -7,7 +7,9 @@ og_description: "Check out what the dev is working on!"
 
 
 # Roadmap
-**Last updated:** {{ "2025-02-09" | date: "%d %b %Y" }}
+**Last updated:** {{ "2025-02-24" | date: "%d %b %Y" }}
+
+The order of the roadmap, is the order that features are expected to be added to the game.
 
 
 ## **[NEW]** 🔨 Multiplayer
@@ -31,29 +33,15 @@ og_description: "Check out what the dev is working on!"
 - Join anytime & instantly (score starts at 0 upon joining, no more waiting 5 mins)
 - Play a league & 1v1 at the same time
 
-**ETA:** Feb 2025
-
 
 ## 🔨 Mini game sauce progression
 - The **base** luck sauce on mini games will no longer be randomly generated. It will be a value that you permanently increase by finding rare eggs in the mini game.
 - The **luck sauce** added per 100 blue gems will no longer be a constant value. It will increase as you progress (details not finalised). 
 
-**ETA:** Feb/Mar 2025
-
 
 ## More Incubators
 - Time incubator
 
-**ETA:** Winter 2025
-
 
 ## Daily & progress challenges
 Rewards for completing daily and progression goals.
-
-**ETA:** Spring 2025
-
-
-## Trading
-Trade the rarest items so that it becomes more realistic that you can complete some of the harder collecting tasks in the game.
-
-**ETA:** 2025
