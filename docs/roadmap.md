@@ -33,6 +33,8 @@ The order of the roadmap, is the order that features are expected to be added to
 - Join anytime & instantly (score starts at 0 upon joining, no more waiting 5 mins)
 - Play a league & 1v1 at the same time
 
+**Announcement:** ![v16.0.0 - Announcement](/announcements/v16-0-0)
+
 
 ## 🔨 Mini game sauce progression
 - The **base** luck sauce on mini games will no longer be randomly generated. It will be a value that you permanently increase by finding rare eggs in the mini game.
