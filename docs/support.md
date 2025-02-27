@@ -8,6 +8,7 @@ og_description: "Contact us with your issues or game feedback"
 # Support & Feedback
 Please do not hesitate to get in touch, I love hearing from you!
 
+
 ## Support
 For any of the following:
 - Troubleshooting
@@ -26,3 +27,9 @@ Please be sure to leave your username or email address.
 
 ## Feedback
 As a solo dev, feedback is vital for improving the game, let me know your thoughts with our **[Feedback Form](https://forms.gle/Cen8dSRrkcbRSvbe9)** or via email.
+
+
+## Discord
+We have an active community & mods that are happy to help out with queries, the dev is also active there.
+
+Our [server](https://discord.gg/swGQAmGtqX) is also a suitable place to get help with any of the above
