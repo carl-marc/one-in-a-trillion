@@ -3,8 +3,10 @@ title: One in a Trillion
 permalink: /support
 ---
 
-# Support
-For any reason, including troubleshooting, feedback or reporting issues plrease email:
+# Support & Feedback
+
+## Support
+Need help with anything such as troubleshooting, or reporting issues please email:
 **support@hamlab.dev**
 
 - Troubleshooting
@@ -12,3 +14,4 @@ For any reason, including troubleshooting, feedback or reporting issues plrease 
 - Bug reporting
 - Game feedback
 - Offensive usernames
+
