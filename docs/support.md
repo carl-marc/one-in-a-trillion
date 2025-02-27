@@ -1,6 +1,8 @@
 ---
 title: One in a Trillion
 permalink: /support
+og_title: "One in a Trillion - Support & Feedback"
+og_description: "Contact us with your issues or game feedback"
 ---
 
 # Support & Feedback
