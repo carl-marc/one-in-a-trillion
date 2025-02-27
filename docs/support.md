@@ -20,7 +20,7 @@ For any of the following:
 **Contact:** support@hamlab.dev
 
 ## Bug Form
-You can email us regarding bugs too but there is also our **[Bug Report Form](https://forms.gle/cBUvpMxwzJo2MqV59)**. 
+You can email us regarding anything but for bugs specifically there is also our **[Bug Report Form](https://forms.gle/cBUvpMxwzJo2MqV59)**. 
 
 Please be sure to leave your username or email address.
 
