@@ -19,14 +19,14 @@ For any of the following:
 
 **Contact:** support@hamlab.dev
 
-## Bug Form
+## [Bug Form](https://forms.gle/cBUvpMxwzJo2MqV59)
 You can email us regarding anything but for bugs specifically there is also our **[Bug Report Form](https://forms.gle/cBUvpMxwzJo2MqV59)**. 
 
 Please be sure to leave your username or email address.
 
 
-## Feedback
-As a solo dev, feedback is vital for improving the game, let me know your thoughts with our **[Feedback Form](https://forms.gle/Cen8dSRrkcbRSvbe9)** or via email.
+## [Feedback](https://forms.gle/Cen8dSRrkcbRSvbe9)
+As a solo dev, feedback is vital for improving the game, let me know your thoughts with our **[Feedback Form](https://forms.gle/Cen8dSRrkcbRSvbe9)** or via **email**.
 
 
 ## [Discord](https://discord.gg/swGQAmGtqX)
