@@ -15,3 +15,5 @@ Need help with anything such as troubleshooting, or reporting issues please emai
 - Game feedback
 - Offensive usernames
 
+Alternative, use our **Bug Report** form:
+[Bug Report Form]([https://dev.oneinatrillion.fun/announcement/v16-0-0](https://forms.gle/cBUvpMxwzJo2MqV59))
