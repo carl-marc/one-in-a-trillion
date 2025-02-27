@@ -32,4 +32,4 @@ As a solo dev, feedback is vital for improving the game, let me know your though
 ## [Discord](https://discord.gg/swGQAmGtqX)
 We have an active community & mods that are happy to help out with queries, the dev is also active there.
 
-Our [server](https://discord.gg/swGQAmGtqX) is also a suitable place to get help with any of the above.
+Our **[server](https://discord.gg/swGQAmGtqX)** is also a suitable place to get help with any of the above.
