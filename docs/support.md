@@ -12,8 +12,9 @@ Need help with anything such as troubleshooting, or reporting issues please emai
 - Troubleshooting
 - Questions
 - Bug reporting
-- Game feedback
 - Offensive usernames
 
-Alternative, use our **Bug Report** form:
-[Bug Report Form]([https://dev.oneinatrillion.fun/announcement/v16-0-0](https://forms.gle/cBUvpMxwzJo2MqV59))
+Alternative, use our **[Bug Report Form](https://forms.gle/cBUvpMxwzJo2MqV59])** and please be sure to leave your username or email address.
+
+
+## Feedback
