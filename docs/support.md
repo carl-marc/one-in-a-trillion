@@ -6,21 +6,23 @@ og_description: "Contact us with your issues or game feedback"
 ---
 
 # Support & Feedback
+Please do not hesitate to get in touch, I love hearing from you!
 
 ## Support
-Need help with anything such as troubleshooting, or reporting issues please email:
-**support@hamlab.dev**
-
+For any of the following:
 - Troubleshooting
 - Questions
-- Bug reporting
 - Offensive usernames
+- Game bugs
+- Other
 
-For issues which you believe to be a game **bug**, you can email or use our **[Bug Report Form](https://forms.gle/cBUvpMxwzJo2MqV59)**. Please be sure to leave your username or email address.
+**Contact:** support@hamlab.dev
+
+## Bug Form
+You can email us regarding bugs too but there is also our **[Bug Report Form](https://forms.gle/cBUvpMxwzJo2MqV59)**. 
+
+Please be sure to leave your username or email address.
 
 
 ## Feedback
-As a solo dev, feedback is vital for improving the game, let me know your thoughts:
-
-- Email: **feedback@hamlab.dev**
-- Form: **[Feedback Form](https://forms.gle/Cen8dSRrkcbRSvbe9)**
+As a solo dev, feedback is vital for improving the game, let me know your thoughts with our **[Feedback Form](https://forms.gle/Cen8dSRrkcbRSvbe9)** or via email.
