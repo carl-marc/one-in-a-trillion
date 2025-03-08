@@ -7,7 +7,7 @@ og_description: "Check out what the dev is working on!"
 
 
 # Roadmap
-**Last updated:** {{ "2025-03-03" | date: "%d %b %Y" }}
+**Last updated:** {{ "2025-03-08" | date: "%d %b %Y" }}
 
 The order of the roadmap, is the order that features are expected to be added to the game.
 
@@ -20,7 +20,7 @@ The order of the roadmap, is the order that features are expected to be added to
   - Reward pots 
 - New 1v1 matches: Competitive
   - Rated
-  - Short duration
+  - 1h duration
   - Ratings based matchmaking
 - **[LATER]** New Team Battle
   - Unrated
