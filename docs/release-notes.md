@@ -1,9 +1,12 @@
----
+c---
 title: One in a Trillion
 permalink: /release-notes
 ---
 
 # Release Notes
+## v16.2.2
+- [Release Notes]({{ '/release-notes/v16-2-2' | relative_url }})
+
 ## v16.2.1
 - [Release Notes]({{ '/release-notes/v16-2-1' | relative_url }})
 
