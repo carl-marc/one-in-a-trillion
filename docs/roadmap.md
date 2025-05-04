@@ -29,9 +29,9 @@ Okay so, version v15.0.0 did not work. There's some decent things in there like 
 It's time to remix a bit of the current with the old...
 
 A little something like this:
-- Reintroduce **currency**, in form of new yolks for the mini games
-- **Simplify** adding **luck sauce** back to just adding the new currency yolks
-- At the end of the mini game, you can instacrack the egg (for free) for currency yolks OR you can keep the egg and crack it later for yellow/instant/dubbly/currency yolks at a later point when the egg is boosted
+- Reintroduce **currency**, in form of new yolks for the mini games.
+- **Simplify** adding **luck sauce** back to just adding the new currency yolks.
+- At the end of the mini game, you can instacrack the egg (for free) for currency yolks OR you can keep the egg and crack it later for yellow/instant/dubbly/currency yolks at a later point when the egg is boosted.
 - Mini games start with a **base sauce**, let's say 1k for a Power - But now, as you play this value **increases over time**, eventually you'll buy a Power and it's base will be 50m, etc.
-- You can **buy currency yolks** using red gems, the amount you get starts quite low but also **increases over time**
-- The two points above should increase roughly every session, so you feel like you're pushing forward, even just a tiny bit
+- You can **buy currency yolks** using red gems, the amount you get starts quite low but also **increases over time**.
+- The two points above should increase frequently so that it feels like you are **progressing every session**, even just a little bit.
