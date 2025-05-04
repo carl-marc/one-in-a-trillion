@@ -17,6 +17,12 @@ The continuous development of the game has brought many changes to existing feat
 The user experience and interface has been neglected somewhat, making the game a little too hard to navigate and understand easily. Therefore, there will be several incremental updates that try to tackle this, simplify the flows and bring connected features closer together.
 
 
+## Better Onboarding Experience
+Too many players are not feeling the 'hook' quick enough.
+
+I am experimenting more & putting the most effort ever into making an onboarding that really helps people understand why they should play this game.
+
+
 ## Mini game sauce progression
 Okay so, version v15.0.0 did not work. There's some decent things in there like incubating but in overarching sense, the mini games are less fun than they used to be. 
 
