@@ -45,6 +45,8 @@ Firstly, swap the current phrase of **'luck sauce'** to **Frenzy/Scramble/Power 
   - New Level progress bar which increases with each mini game played
   - Increases by a set amount plus bonuses based on how lucky the mini game was
   - Levelling up gives an permanent upgrade to **base yolks** on a mini game and the cost - **x yolks per 1 red gem**
+- Incubating
+  - Have to play the mini game when removing from incubator, no more re-incubating eggs several times
  
 
 These changes hope to re-add a better sense of **risk/reward** to playing mini games, help make each one feel at least a little bit progressive & allow really rare pulls to progress you faster. It'll simplifies mini games & integrates the currencies into Cracking, boosted slots & the core loop.
