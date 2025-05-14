@@ -33,7 +33,7 @@ A little something like this:
 - Currency
   - Each mini game has it's own **yolk** currency
   - Adding 'luck sauce' simplified to just adding the **yolk** currency
-  - At the end of the mini game you are given an trade offer to swap the rarest egg for **yolk** currency
+  - At the end of the mini game you are offered a trade to swap the rarest egg for **yolk** currency
   - You can crack eggs to earn more **yolk** currency
   - You can buy **Yolk** currencies for **red gems**
 - Level progerssion system
