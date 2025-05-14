@@ -31,12 +31,12 @@ It's time to remix a bit of the current with the old...
 
 A little something like this:
 
-Need to swap the current phrase of **'luck sauce'** to Frenzy/Scramble/Power **yolks**
+Firstly, swap the current phrase of **'luck sauce'** to **Frenzy/Scramble/Power yolks**
 
 
-- Currency
+- Re-adding currencies
   - Each mini game has it's own **yolk** currency
-  - Adding 'luck sauce' simplified to just adding the **yolk** currency
+  - Adding 'luck sauce' is simplified to just adding the **yolk** currency
   - At the end of the mini game you are offered a trade to swap the rarest egg for **yolk** currency
   - You can crack eggs to earn more **yolk** currency
   - You can buy **Yolk** currencies for **red gems**
