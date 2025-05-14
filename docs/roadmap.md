@@ -30,15 +30,16 @@ It's time to remix a bit of the current with the old...
 
 
 A little something like this:
-- Reintroduce **currency**, in form of new yolks for the mini games.
-- **Simplify** adding **luck sauce** back to just adding the new currency yolks.
-- At the end of the mini game, you can trade the egg for currency yolks OR you can keep the egg and crack it later for yellow/instant/dubbly/currency yolks, maybe when the egg is boosted.
+- Currency
+  - Each mini game has it's own **yolk** currency
+  - Adding 'luck sauce' simplified to just adding the **yolk** currency
+  - At the end of the mini game you are given an trade offer to swap the rarest egg for **yolk** currency
+  - You can crack eggs to earn more **yolk** currency
+  - You can buy **Yolk** currencies for **red gems**
 - Level progerssion system
-  - A Level progress bar which increases with each mini game played
-  - Increases by a set amount, plus bonuses based on how lucky the mini game was
-  - Levelling up gives an upgrade to **base sauce** and **sauce cost**
-- You can **buy currency yolks** using red gems, the amount you get starts quite low but also **increases over time**.
-- The two points above should increase frequently so that it feels like you are **progressing every session**, even just a little bit.
+  - New Level progress bar which increases with each mini game played
+  - Increases by a set amount plus bonuses based on how lucky the mini game was
+  - Levelling up gives an permanent upgrade to **base sauce** and **sauce cost**
 
 
 All of this is subject to change whilst developing and play testing.
