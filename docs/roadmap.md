@@ -30,7 +30,9 @@ It's time to remix a bit of the current with the old...
 
 
 A little something like this:
+
 Need to swap the current phrase of **'luck sauce'** to Frenzy/Scramble/Power **yolks**
+
 
 - Currency
   - Each mini game has it's own **yolk** currency
