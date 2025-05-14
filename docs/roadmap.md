@@ -32,8 +32,11 @@ It's time to remix a bit of the current with the old...
 A little something like this:
 - Reintroduce **currency**, in form of new yolks for the mini games.
 - **Simplify** adding **luck sauce** back to just adding the new currency yolks.
-- At the end of the mini game, you can instacrack the egg (for free) for currency yolks OR you can keep the egg and crack it later for yellow/instant/dubbly/currency yolks at a later point when the egg is boosted.
-- Mini games start with a **base sauce**, let's say 1k for a Power - But now, as you play this value **increases over time**, eventually you'll buy a Power and it's base will be 50m, etc.
+- At the end of the mini game, you can trade the egg for currency yolks OR you can keep the egg and crack it later for yellow/instant/dubbly/currency yolks, maybe when the egg is boosted.
+- Level progerssion system
+  - A Level progress bar which increases with each mini game played
+  - Increases by a set amount, plus bonuses based on how lucky the mini game was
+  - Levelling up gives an upgrade to **base sauce** and **sauce cost**
 - You can **buy currency yolks** using red gems, the amount you get starts quite low but also **increases over time**.
 - The two points above should increase frequently so that it feels like you are **progressing every session**, even just a little bit.
 
