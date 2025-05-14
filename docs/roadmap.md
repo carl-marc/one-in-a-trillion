@@ -50,7 +50,8 @@ Firstly, swap the current phrase of **'luck sauce'** to **Frenzy/Scramble/Power 
  
 
 These changes hope to re-add a better sense of **risk/reward** to playing mini games, help make each one feel at least a little bit progressive & allow really rare pulls to progress you faster. It'll simplifies mini games & integrates the currencies into Cracking, boosted slots & the core loop.
+
 All this, whilst still being able to control the progression better so that new players can't find 1t eggs easilly within the first few days of play & miss out on all those good progression milestones.
 
 
-All of this is subject to change whilst developing and play testing.
+All of the above is subject to change whilst developing and play testing.
