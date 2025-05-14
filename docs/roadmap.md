@@ -7,7 +7,7 @@ og_description: "Check out what the dev is working on!"
 
 
 # Roadmap
-**Last updated:** {{ "2025-05-04" | date: "%d %b %Y" }}
+**Last updated:** {{ "2025-05-14" | date: "%d %b %Y" }}
 
 The order of the roadmap, is the order that features are expected to be added to the game.
 
