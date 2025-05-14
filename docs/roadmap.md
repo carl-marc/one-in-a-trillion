@@ -36,6 +36,7 @@ A little something like this:
   - At the end of the mini game you are offered a trade to swap the rarest egg for **yolk** currency
   - You can crack eggs to earn more **yolk** currency
   - You can buy **Yolk** currencies for **red gems**
+  - **Yolk** currencies are likely to be added to the main game - Tripply items, daily prizes, etc.
 - Level progerssion system
   - New Level progress bar which increases with each mini game played
   - Increases by a set amount plus bonuses based on how lucky the mini game was
