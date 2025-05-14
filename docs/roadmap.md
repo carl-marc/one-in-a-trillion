@@ -30,6 +30,8 @@ It's time to remix a bit of the current with the old...
 
 
 A little something like this:
+Need to swap the current phrase of **'luck sauce'** to Frenzy/Scramble/Power **yolks**
+
 - Currency
   - Each mini game has it's own **yolk** currency
   - Adding 'luck sauce' simplified to just adding the **yolk** currency
@@ -40,7 +42,7 @@ A little something like this:
 - Level progerssion system
   - New Level progress bar which increases with each mini game played
   - Increases by a set amount plus bonuses based on how lucky the mini game was
-  - Levelling up gives an permanent upgrade to **base sauce** and **sauce cost**
+  - Levelling up gives an permanent upgrade to **base yolks** on a mini game and **yolks per 1 red gem**
 
 
 All of this is subject to change whilst developing and play testing.
