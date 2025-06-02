@@ -7,7 +7,7 @@ og_description: "Check out what the dev is working on!"
 
 
 # Roadmap
-**Last updated:** {{ "2025-05-14" | date: "%d %b %Y" }}
+**Last updated:** {{ "2025-06-02" | date: "%d %b %Y" }}
 
 The order of the roadmap, is the order that features are expected to be added to the game.
 
@@ -23,35 +23,14 @@ Too many players are not finding the 'hook' quick enough.
 I am experimenting more & putting the most effort ever into making an onboarding that really helps people understand why they should play this game.
 
 
-## Mini game sauce progression
-Okay so, version v15.0.0 did not work. There's some decent things in there like incubating but in overarching sense, the mini games are less fun than they used to be. 
-
-It's time to remix a bit of the current with the old...
-
-
-A little something like this:
-
-Firstly, swap the current phrase of **'luck sauce'** to **Frenzy/Scramble/Power yolks**
+## Mini Games
+- Ability to crack new yolks in Cracking
+- Spawning whilst tapping, tripply items, daily & 4h prizes
+- Level milestones?
 
 
-- Re-adding currencies
-  - Each mini game has it's own **yolk** currency
-  - Adding 'luck sauce' is simplified to just adding the **yolk** currency (No red/blue gem + egglopedia + proximity bonuses)
-  - At the end of the mini game you are offered a trade to swap the rarest egg for **yolk** currency
-  - You can crack eggs to earn more **yolk** currency
-  - You can buy **Yolk** currencies for **red gems**
-  - **Yolk** currencies are likely to be added to the main game - Tripply items, daily prizes, etc.
-- Level progerssion system
-  - New Level progress bar which increases with each mini game played
-  - Increases by a set amount plus bonuses based on how lucky the mini game was
-  - Levelling up gives an permanent upgrade to **base yolks** on a mini game and the cost - **x yolks per 1 red gem**
-- Incubating
-  - Have to play the mini game when removing from incubator, no more re-incubating eggs several times
- 
-
-These changes hope to re-add a better sense of **risk/reward** to playing mini games, help make each one feel at least a little bit progressive & allow really rare pulls to progress you faster. It'll simplifies mini games & integrates the currencies into Cracking, boosted slots & the core loop.
-
-All this, whilst still being able to control the progression better so that new players can't find 1t eggs easilly within the first few days of play & miss out on all those good progression milestones.
+## Cracking Simplification & New Features
+More details to come
 
 
 All of the above is subject to change whilst developing and play testing.
