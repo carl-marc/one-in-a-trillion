@@ -11,6 +11,12 @@ og_description: "Check out what the dev is working on!"
 
 The order of the roadmap, is the order that features are expected to be added to the game.
 
+## Mini Games
+- Ability to crack new yolks in Cracking
+- Spawning whilst tapping, tripply items, daily & 4h prizes
+- Level milestones?
+
+
 ## UI & UX Simplification
 The continuous development of the game has brought many changes to existing features, added functionality, removal of some mechanics & in some cases, added complexity. 
 
@@ -21,12 +27,6 @@ The user experience and interface has been neglected somewhat, making the game a
 Too many players are not finding the 'hook' quick enough.
 
 I am experimenting more & putting the most effort ever into making an onboarding that really helps people understand why they should play this game.
-
-
-## Mini Games
-- Ability to crack new yolks in Cracking
-- Spawning whilst tapping, tripply items, daily & 4h prizes
-- Level milestones?
 
 
 ## Cracking Simplification & New Features
