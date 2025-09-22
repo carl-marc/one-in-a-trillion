@@ -7,9 +7,13 @@ og_description: "Check out what the dev is working on!"
 
 
 # Roadmap
-**Last updated:** {{ "2025-07-20" | date: "%d %b %Y" }}
+**Last updated:** {{ "2025-09-22" | date: "%d %b %Y" }}
 
 The order of the roadmap, is the order that features are expected to be added to the game.
+
+
+## New Multiplayer Battle Modes
+Adding **Day** & **Week** long 1v1 battles!
 
 
 ## Better Onboarding Experience
